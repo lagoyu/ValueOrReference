@@ -100,8 +100,5 @@ class Program
         }
         Console.WriteLine();
     }
-
-
-
 }
 
